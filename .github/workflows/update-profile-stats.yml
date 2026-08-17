@@ -1,40 +1,46 @@
-name: Update profile stats
+name: Refresh GitHub Analytics
 
 on:
   schedule:
-    - cron: "17 2 * * *"
+    - cron: "23 2 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  stats:
+  refresh:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Generate GitHub stats
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8B5CF6&text_color=CBD5E1
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate top languages
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=CBD5E1
-          path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Commit refreshed cards
+      - uses: actions/checkout@v4
+      - name: Generate analytics SVGs
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: NANDANS26
+        run: |
+          python - <<'PY'
+          import json,os,urllib.request,html
+          from collections import Counter
+          H={'Accept':'application/vnd.github+json','Authorization':f'Bearer {os.environ["GH_TOKEN"]}','X-GitHub-Api-Version':'2022-11-28'}
+          def get(u):
+            q=urllib.request.Request(u,headers=H)
+            with urllib.request.urlopen(q) as r:return json.load(r)
+          user=os.environ['USERNAME']; p=get(f'https://api.github.com/users/{user}'); repos=get(f'https://api.github.com/users/{user}/repos?per_page=100&sort=pushed&type=owner'); E=lambda x:html.escape(str(x)); public=len(repos); stars=sum(x.get('stargazers_count',0) for x in repos); forks=sum(x.get('forks_count',0) for x in repos); followers=p.get('followers',0); langs=Counter(x.get('language') for x in repos if x.get('language')); recent=sorted(repos,key=lambda x:x.get('updated_at',''),reverse=True)[:5]
+          def card(x,w,l,v,s,a):return f'<g><rect x="{x}" y="55" width="{w}" height="145" rx="18" fill="#090E17" stroke="#263244"/><rect x="{x}" y="55" width="4" height="145" rx="2" fill="{a}"/><text x="{x+22}" y="83" class="m" font-size="11" fill="#64748B">{E(l)}</text><text x="{x+22}" y="121" class="s" font-size="30" font-weight="800" fill="#F8FAFC">{E(v)}</text><text x="{x+22}" y="146" class="m" font-size="11" fill="#94A3B8">{E(s)}</text></g>'
+          open('assets/github-stats.svg','w').write(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 230"><style>.s{{font-family:Inter,Arial,sans-serif}}.m{{font-family:ui-monospace,SFMono-Regular,Menlo,monospace}}</style><rect width="1100" height="230" rx="24" fill="#060A11" stroke="#1F2937"/><text x="34" y="34" class="m" font-size="12" fill="#00E5FF">&gt; github.snapshot</text><text x="1066" y="34" text-anchor="end" class="m" font-size="10" fill="#475569">AUTO-REFRESHED</text>{card(30,245,"PUBLIC REPOS",public,"open-source repositories","#00E5FF")}{card(292,245,"TOTAL STARS",stars,"across public repositories","#8B5CF6")}{card(554,245,"FOLLOWERS",followers,"GitHub network","#2563EB")}{card(816,254,"FORKS",forks,"community forks","#22C55E")}</svg>')
+          maxn=max(langs.values(),default=1); rows=[]
+          for i,(l,n) in enumerate(langs.most_common(8)):
+            y=62+i*27; rows.append(f'<text x="35" y="{y}" class="m" font-size="11" fill="#CBD5E1">{E(l)}</text><text x="545" y="{y}" text-anchor="end" class="m" font-size="10" fill="#64748B">{n} repos</text><rect x="150" y="{y-10}" width="395" height="8" rx="4" fill="#111827"/><rect x="150" y="{y-10}" width="{max(8,395*n/maxn):.1f}" height="8" rx="4" fill="#00E5FF"/>')
+          open('assets/github-languages.svg','w').write(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 305"><style>.m{{font-family:ui-monospace,SFMono-Regular,Menlo,monospace}}</style><rect width="580" height="305" rx="24" fill="#060A11" stroke="#1F2937"/><text x="35" y="32" class="m" font-size="12" fill="#00E5FF">&gt; language.profile</text><text x="545" y="32" text-anchor="end" class="m" font-size="10" fill="#475569">PRIMARY REPO LANGUAGES</text>{"".join(rows)}<text x="35" y="285" class="m" font-size="10" fill="#475569">Primary language metadata • {public} public repositories</text></svg>')
+          rows=[]
+          for i,r in enumerate(recent):
+            y=61+i*43; rows.append(f'<text x="34" y="{y}" class="s" font-size="13" font-weight="700" fill="#F8FAFC">{E(r.get("name",""))[:34]}</text><text x="34" y="{y+18}" class="m" font-size="9" fill="#64748B">{E(r.get("language") or "Other")} • ★ {r.get("stargazers_count",0)}</text>')
+          open('assets/github-recent.svg','w').write(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 270"><style>.s{{font-family:Inter,Arial,sans-serif}}.m{{font-family:ui-monospace,SFMono-Regular,Menlo,monospace}}</style><rect width="520" height="270" rx="24" fill="#060A11" stroke="#1F2937"/><text x="34" y="32" class="m" font-size="12" fill="#00E5FF">&gt; recent.repositories</text><text x="486" y="32" text-anchor="end" class="m" font-size="10" fill="#475569">UPDATED RECENTLY</text>{"".join(rows)}<text x="34" y="248" class="m" font-size="10" fill="#475569">Sorted by latest repository update.</text></svg>')
+          PY
+      - name: Commit refreshed analytics
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
-          git diff --cached --quiet || git commit -m "chore: refresh profile stats"
+          git add assets/github-*.svg
+          git diff --cached --quiet || git commit -m "chore: refresh GitHub analytics"
           git push

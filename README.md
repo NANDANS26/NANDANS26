@@ -176,19 +176,19 @@ learning_credentials:
 ## `> github-analytics`
 
 <div align="center">
-  <a href="https://github.com/NANDANS26">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=NANDANS26&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8B5CF6&text_color=CBD5E1&ring_color=00D9FF&cache_seconds=86400" alt="Nandan's GitHub statistics" />
-  </a>
-  <a href="https://github.com/NANDANS26">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NANDANS26&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=CBD5E1&cache_seconds=86400" alt="Nandan's top languages" />
-  </a>
+<img src="./assets/github-stats.svg" width="100%" alt="GitHub snapshot — repositories, stars, followers and forks" />
 </div>
 
 <div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=NANDANS26&bg_color=0D1117&color=CBD5E1&line=00D9FF&point=8B5CF6&area=true&hide_border=true&custom_title=NANDAN%20S%20%E2%80%94%20Contribution%20Activity" alt="Nandan's GitHub contribution activity" />
+<img src="./assets/github-languages.svg" width="53%" alt="Primary repository language distribution" />
+<img src="./assets/github-recent.svg" width="43%" alt="Recently updated repositories" />
 </div>
 
-<p align="center"><sub>Live GitHub metrics • public activity • contribution history</sub></p>
+<div align="center">
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=NANDANS26&bg_color=060A11&color=CBD5E1&line=00E5FF&point=8B5CF6&area=true&hide_border=true&custom_title=NANDAN%20S%20%E2%80%94%20Contribution%20Activity&radius=12" alt="Nandan's GitHub contribution activity" />
+</div>
+
+<p align="center"><sub>Repository metrics are generated from GitHub's API and refreshed automatically. Contribution activity is shown separately.</sub></p>
 
 <img src="https://raw.githubusercontent.com/NANDANS26/NANDANS26/main/assets/divider.svg" width="100%" height="6" alt="" />
 
