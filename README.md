@@ -1,172 +1,181 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0A0E27&fontColor=00F0FF&text=Nandan%20S&fontSize=42&fontAlign=50&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20Systems%20%7C%20AI%20%26%20Automation&descColor=FF2E9A&descAlign=50&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0B0D0F&fontColor=00D9FF&text=NANDAN%20S&fontSize=40&fontAlign=50&fontAlignY=32&desc=Software%20Engineer%20%C2%B7%20Backend%20Systems%20%C2%B7%20AI%20%C2%B7%20Automation&descColor=6EE7F9&descAlign=50&descAlignY=52&animation=fadeIn" alt="Nandan S — Software Engineer, Backend Systems, AI, Automation" />
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F0FF&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+Full-Stack+Engineer+%7C+AI+Systems;%24+ls+%2Fprojects+%E2%86%92+SIREN+%C2%B7+Nexus+SaaS+%C2%B7+SkillVerse;%24+stack+%E2%86%92+Python+%7C+TypeScript+%7C+FastAPI+%7C+React;%24+cat+open-to.txt+%E2%86%92+Backend+%2F+AI+Engineering+Roles" />
-
-</div>
-
-<div align="center">
-
-![Location](https://img.shields.io/badge/Location-Mandya%2C%20Karnataka%2C%20India-0A0E27?style=flat-square&labelColor=0A0E27&color=00F0FF)
-![Degree](https://img.shields.io/badge/B.E.-Computer%20Science-0A0E27?style=flat-square&labelColor=0A0E27&color=FF2E9A)
-![University](https://img.shields.io/badge/PES%20College%20of%20Engineering-Mandya-0A0E27?style=flat-square&labelColor=0A0E27&color=00F0FF)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=00D9FF&center=true&vCenter=true&width=760&lines=%24+whoami+%E2%86%92+Software+Engineer;%24+focus+%E2%86%92+Backend+Systems+%C2%B7+AI+%C2%B7+Automation;%24+stack+%E2%86%92+Python+%C2%B7+TypeScript+%C2%B7+FastAPI+%C2%B7+Node.js;%24+build+%E2%86%92+APIs+%C2%B7+Intelligent+Services+%C2%B7+Automation;%24+open--to+%E2%86%92+Backend+%C2%B7+SDE+%C2%B7+AI+Engineering" alt="typing animation of role and stack" />
 
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A0E27?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0A0E27&color=0A0E27)](https://www.linkedin.com/in/nandan-s-9279952a1/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-0A0E27?style=for-the-badge&logo=instagram&logoColor=FF2E9A&labelColor=0A0E27&color=0A0E27)](https://www.instagram.com/itz_nandan_s)
-[![Email](https://img.shields.io/badge/Email-Contact-0A0E27?style=for-the-badge&logo=gmail&logoColor=00F0FF&labelColor=0A0E27&color=0A0E27)](mailto:nandansdev26@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-0A0E27?style=for-the-badge&logo=github&logoColor=FF2E9A&labelColor=0A0E27&color=0A0E27)](https://github.com/NANDANS26)
+![Location](https://img.shields.io/badge/Mandya%2C%20Karnataka%2C%20India-0B0D0F?style=flat-square&labelColor=0B0D0F&color=00D9FF)
+![Degree](https://img.shields.io/badge/B.E.%20Computer%20Science-0B0D0F?style=flat-square&labelColor=0B0D0F&color=00D9FF)
+![University](https://img.shields.io/badge/PES%20College%20of%20Engineering%2C%20Mandya-0B0D0F?style=flat-square&labelColor=0B0D0F&color=00D9FF)
 
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=NANDANS26&color=00F0FF&style=flat-square&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0D0F?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=0B0D0F&color=0B0D0F)](https://www.linkedin.com/in/nandan-s-9279952a1/)
+[![GitHub](https://img.shields.io/badge/GitHub-0B0D0F?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0B0D0F&color=0B0D0F)](https://github.com/NANDANS26)
+[![Email](https://img.shields.io/badge/Email-0B0D0F?style=for-the-badge&logo=gmail&logoColor=00D9FF&labelColor=0B0D0F&color=0B0D0F)](mailto:nandansdev26@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-0B0D0F?style=for-the-badge&logo=instagram&logoColor=00D9FF&labelColor=0B0D0F&color=0B0D0F)](https://www.instagram.com/itz_nandan_s)
 
 </div>
 
----
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=NANDANS26&color=00D9FF&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/NANDANS26/NANDANS26/main/assets/divider.svg" width="100%" height="6" alt="" />
 
 ## `> whoami`
 
-Full-stack engineer who builds production-grade systems combining backend engineering with AI-driven decision-making. I design scalable APIs, integrate ML pipelines, and build real-world simulation environments for complex problems — from payment infrastructure to reinforcement-learning cyber defense agents.
+Software engineer focused on backend systems, intelligent services, and automation. I build APIs, event-driven workflows, and AI-powered systems with an emphasis on reliability, maintainability, and practical engineering.
 
 ```bash
 $ cat .profile
 
-ROLE     =  Software Engineer (Backend Systems | AI & Automation)
-EXP      =  Project-based / Freelance / Startup work, 2024 – Present
-DOMAIN   =  Backend Systems  |  AI / ML  |  FinTech (Payments)  |  Cybersecurity Simulation
-STACK    =  Python  |  TypeScript  |  Node.js  |  FastAPI  |  React
-OPEN_TO  =  Backend Engineering Internships · Software Engineering Internships · AI/ML Engineering Internships · Backend / SDE New-Grad Roles
+ROLE     = Software Engineer
+FOCUS    = Backend Systems | AI | Automation
+DOMAIN   = Backend | AI/ML | Payments | Systems Modeling
+STACK    = Python | TypeScript | Node.js | FastAPI
+OPEN_TO  = Backend | SDE | AI Engineering Internships + New-Grad Roles
 ```
 
----
+<img src="https://raw.githubusercontent.com/NANDANS26/NANDANS26/main/assets/divider.svg" width="100%" height="6" alt="" />
 
 ## `$ ls /tech-stack`
 
 **Languages**
-
+![Python](https://skillicons.dev/icons?i=py&theme=dark)
 ![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)
 ![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)
-![Python](https://skillicons.dev/icons?i=py&theme=dark)
+![C](https://skillicons.dev/icons?i=c&theme=dark)
+![C++](https://skillicons.dev/icons?i=cpp&theme=dark)
 
-**Backend & APIs**
-
+**Backend**
 ![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)
 ![Express](https://skillicons.dev/icons?i=express&theme=dark)
+
+`REST APIs · Authentication · Authorization · Webhooks · FastAPI`
+
+**Frontend**
 ![React](https://skillicons.dev/icons?i=react&theme=dark)
 
-**Data & ML**
-
-![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)
-![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)
+**AI / ML**
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=dark)
 
-**Cloud & Tools**
+`scikit-learn · LightGBM · FAISS · SentenceTransformers`
 
+**Databases**
+![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)
+![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)
+
+**Cloud / Infrastructure**
 ![GCP](https://skillicons.dev/icons?i=gcp&theme=dark)
 ![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark)
+![Docker](https://skillicons.dev/icons?i=docker&theme=dark)
+![Linux](https://skillicons.dev/icons?i=linux&theme=dark)
+![Bash](https://skillicons.dev/icons?i=bash&theme=dark)
+
+**Engineering**
 ![Git](https://skillicons.dev/icons?i=git&theme=dark)
 ![GitHub](https://skillicons.dev/icons?i=github&theme=dark)
-![Linux](https://skillicons.dev/icons?i=linux&theme=dark)
-![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark)
+![Postman](https://skillicons.dev/icons?i=postman&theme=dark)
 
-**Also working with:** FastAPI · REST API Design · Authentication/Authorization · Webhooks · SentenceTransformers · FAISS · LightGBM · scikit-learn · Stripe API · Postman · Swagger/OpenAPI
+`Swagger / OpenAPI`
 
----
+<img src="https://raw.githubusercontent.com/NANDANS26/NANDANS26/main/assets/divider.svg" width="100%" height="6" alt="" />
 
 ## `> specialization`
 
-![Backend Systems](https://img.shields.io/badge/Backend%20Systems-Design%20%26%20Reliability-0A0E27?style=flat-square&labelColor=0A0E27&color=00F0FF)
-![AI/ML Integration](https://img.shields.io/badge/AI%2FML-Applied%20Integration-0A0E27?style=flat-square&labelColor=0A0E27&color=FF2E9A)
-![API Security](https://img.shields.io/badge/API%20Security-Auth%20%26%20Validation-0A0E27?style=flat-square&labelColor=0A0E27&color=00F0FF)
-![Payments](https://img.shields.io/badge/Payments-Stripe%20Integration-0A0E27?style=flat-square&labelColor=0A0E27&color=FF2E9A)
+![Backend Systems](https://img.shields.io/badge/Backend%20Systems-0B0D0F?style=flat-square&labelColor=0B0D0F&color=00D9FF)
+![AI/ML Integration](https://img.shields.io/badge/AI%2FML%20Integration-0B0D0F?style=flat-square&labelColor=0B0D0F&color=00D9FF)
+![API Engineering](https://img.shields.io/badge/API%20Engineering-0B0D0F?style=flat-square&labelColor=0B0D0F&color=00D9FF)
+![Payments & SaaS Infra](https://img.shields.io/badge/Payments%20%26%20SaaS%20Infrastructure-0B0D0F?style=flat-square&labelColor=0B0D0F&color=00D9FF)
+![Systems Modeling](https://img.shields.io/badge/Systems%20Modeling-0B0D0F?style=flat-square&labelColor=0B0D0F&color=00D9FF)
+![Automation](https://img.shields.io/badge/Automation-0B0D0F?style=flat-square&labelColor=0B0D0F&color=00D9FF)
 
-## `> cat expertise.md`
+### `> cat expertise.md`
 
 | Domain | Proficiency | Details |
 | :-- | :-- | :-- |
-| Backend API Design | Strong | REST APIs, authentication/authorization, structured error handling, webhooks |
+| Backend API Engineering | Strong | REST API design, authentication/authorization, structured error handling, webhooks |
 | AI/ML Integration | Strong | FAISS vector search, SentenceTransformers, LightGBM ranking, explainable scoring |
-| Payments & SaaS Infra | Strong | Stripe Checkout/Webhooks, RBAC, subscription lifecycle automation |
+| Payments & SaaS Infrastructure | Strong | Stripe Checkout/Webhooks, signature verification, RBAC, subscription lifecycle automation |
 | Systems Modeling / RL | Intermediate–Strong | Reinforcement learning environments, reward design, state-transition simulation |
-| Frontend (React) | Intermediate | Component architecture, API integration, state management |
-| Cloud & DevOps | Intermediate | Google Cloud Platform, Firebase, Git-based workflows |
+| Frontend | Intermediate | React component architecture, API integration |
+| Cloud / DevOps | Intermediate | Google Cloud Platform, Firebase, Docker, Git-based workflows |
 
----
+<img src="https://raw.githubusercontent.com/NANDANS26/NANDANS26/main/assets/divider.svg" width="100%" height="6" alt="" />
 
 ## `$ ls /projects --featured`
 
 <details open>
-<summary><b>&#9654; SIREN &mdash; Reinforcement Learning Environment for Cyber Incident Response</b></summary>
+<summary><b>&#9654; Nexus SaaS — Payment & Subscription Platform</b></summary>
 
-A custom RL environment simulating real-world cyber attack chains using system-level state transitions and anomaly propagation.
+A backend SaaS platform handling subscription pricing, Stripe payment processing, and lifecycle automation.
 
-| Aspect | Detail |
-| :-- | :-- |
-| **Stack** | Python · FastAPI · Reinforcement Learning · System Modeling · OpenEnv |
-| **Scale** | Models interconnected systems (DB → Auth → Web) with dynamic anomaly propagation and isolation logic |
-| **Impact** | Composite reward function balancing response speed, SLA impact, and audit-proof actions; evaluation pipeline using outcome scoring + sequence alignment (LCS) |
-| **Repo** | [View on GitHub](https://github.com/NANDANS26) |
-
-Designed the action space with real-world trade-offs (fast_patch vs. verified_patch) to simulate genuine incident-response decision constraints.
-
-</details>
-
-<details>
-<summary><b>&#9654; Nexus SaaS &mdash; Payment & Subscription Platform</b></summary>
-
-A multi-currency SaaS platform with region-based pricing and full subscription lifecycle management.
-
-| Aspect | Detail |
+| | |
 | :-- | :-- |
 | **Stack** | Node.js · TypeScript · MongoDB · Stripe API · Webhooks |
-| **Scale** | Multi-currency pricing, RBAC-based access for user and admin systems |
-| **Impact** | Stripe Checkout + signature-verified, idempotent webhook handling; automated upgrade/cancel/renew workflows |
-| **Repo** | [View on GitHub](https://github.com/NANDANS26) |
-
-Built usage-based feature enforcement (project/API limits) tied directly to subscription plans.
+| **Architecture** | Event-driven backend with signature-verified, idempotent Stripe webhook handling and RBAC-gated access |
+| **Engineering contribution** | Designed subscription lifecycle logic (upgrade / renewal / cancellation) and usage-based feature enforcement tied to plan tier |
+| **Key technical implementation** | Stripe Checkout integration, webhook signature verification, RBAC-based authorization |
+| **Repository** | [github.com/NANDANS26/Nexux-Stripe](https://github.com/NANDANS26/Nexux-Stripe) *(closest matching public repo — flagged for your confirmation, see note below)* |
 
 </details>
 
 <details>
-<summary><b>&#9654; SkillVerse &mdash; AI-Based Candidate Matching System</b></summary>
+<summary><b>&#9654; SIREN — Reinforcement Learning Environment for Cyber Incident Response</b></summary>
 
-Semantic candidate-matching engine pairing job descriptions to ranked candidates.
+A Python simulation environment modeling cyber incident response as a reinforcement learning problem.
 
-| Aspect | Detail |
+| | |
 | :-- | :-- |
-| **Stack** | React · Node.js · FastAPI · MySQL · FAISS · SentenceTransformers · LightGBM |
-| **Scale** | End-to-end pipeline from job description parsing to ranked candidate retrieval |
-| **Impact** | Semantic matching via SentenceTransformer embeddings + FAISS vector search; LightGBM ranking with explainable scoring |
-| **Repo** | [View on GitHub](https://github.com/NANDANS26) |
-
-Integrated a Python ML engine (FastAPI) with a Node.js backend for real-time cross-service communication.
+| **Stack** | Python · FastAPI · Reinforcement Learning · System Modeling |
+| **Architecture** | Interconnected services with system-level state transitions and anomaly propagation across dependent components |
+| **Engineering contribution** | Designed isolation logic and deployment/recovery/validation action scenarios; built an automated evaluation pipeline |
+| **Key technical implementation** | Outcome scoring combined with sequence-based analysis for agent performance validation |
+| **Repository** | Private / Not publicly available |
 
 </details>
 
----
+<details>
+<summary><b>&#9654; SkillVerse — AI-Based Candidate Matching System</b></summary>
+
+A semantic candidate-matching engine that ranks candidates against job descriptions.
+
+| | |
+| :-- | :-- |
+| **Stack** | React · Node.js · FastAPI · MySQL · FAISS · SentenceTransformers · LightGBM |
+| **Architecture** | Python FastAPI ML service cross-communicating with a Node.js backend in real time |
+| **Engineering contribution** | Built the semantic matching pipeline (embeddings + vector search) and the LightGBM ranking layer |
+| **Key technical implementation** | SentenceTransformer embeddings, FAISS vector search, explainable candidate scoring |
+| **Repository** | Private / Not publicly available |
+
+</details>
+
+<img src="https://raw.githubusercontent.com/NANDANS26/NANDANS26/main/assets/divider.svg" width="100%" height="6" alt="" />
 
 ## `> cat experience.log`
 
 **Software Engineer** — Project-Based / Freelance / Startup Projects
 `2024 – Present`
 
-- Designed and built full-stack systems from API layer to deployment with focus on reliability
-- Developed secure REST APIs with authentication, validation, and structured error handling
-- Integrated external APIs and AI services under real-world constraints
+- Designed and built backend systems and Python applications with focus on reliability and maintainability
+- Developed REST APIs with authentication, validation, logging, and structured error handling
+- Integrated external APIs and automated backend workflows
+- Worked in Linux-based development environments using Git and collaborative version-control workflows
 - Collaborated in small teams with version control and iterative development practices
+- Incorporated feedback during iterative development where applicable
 
-`Tags:` ![](https://img.shields.io/badge/-Node.js-0A0E27?style=flat-square&color=00F0FF) ![](https://img.shields.io/badge/-FastAPI-0A0E27?style=flat-square&color=FF2E9A) ![](https://img.shields.io/badge/-React-0A0E27?style=flat-square&color=00F0FF) ![](https://img.shields.io/badge/-REST%20APIs-0A0E27?style=flat-square&color=FF2E9A)
-
----
+<img src="https://raw.githubusercontent.com/NANDANS26/NANDANS26/main/assets/divider.svg" width="100%" height="6" alt="" />
 
 ## `> cat achievements.md`
 
@@ -177,93 +186,63 @@ Integrated a Python ML engine (FastAPI) with a Node.js backend for real-time cro
 | 🏆 Winner | TITAN Impact Challenge | National |
 | 🥈 Runner-up | Hack Kshetra 2024 | National |
 | 🏆 Winner | GDG Impact Challenge | — |
+| Participant | Google Solution Challenge | — |
 
 </div>
 
-## `> cat certifications.yaml`
+### `> cat certifications.yaml`
 
 ```yaml
-google_cloud:
-  - title: Generative AI Study Jam Achiever
+learning_credentials:
+  - title: Google Cloud Generative AI Study Jam Achiever
     year: 2024
     detail: 15 skill badges · 60+ hands-on labs
-  - title: Google Solution Challenge
-    detail: Participant
 ```
 
----
+<img src="https://raw.githubusercontent.com/NANDANS26/NANDANS26/main/assets/divider.svg" width="100%" height="6" alt="" />
 
-## `![Education]`
+<div align="center">
 
-![Education](https://img.shields.io/badge/B.E.%20Computer%20Science-PES%20College%20of%20Engineering%2C%20Mandya-0A0E27?style=for-the-badge&labelColor=0A0E27&color=00F0FF)
-![Duration](https://img.shields.io/badge/2023%20--%202027-In%20Progress-0A0E27?style=for-the-badge&labelColor=0A0E27&color=FF2E9A)
+![Education](https://img.shields.io/badge/B.E.%20Computer%20Science%20%E2%80%94%20PES%20College%20of%20Engineering%2C%20Mandya%20%E2%80%94%202023--2027%20(In%20Progress)-0B0D0F?style=for-the-badge&labelColor=0B0D0F&color=00D9FF)
 
----
+</div>
 
 ## `$ ls /coding-profiles`
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-0A0E27?style=for-the-badge&logo=leetcode&logoColor=FF2E9A&labelColor=0A0E27&color=0A0E27)](https://leetcode.com/u/nandansdev/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-0A0E27?style=for-the-badge&logo=geeksforgeeks&logoColor=00F0FF&labelColor=0A0E27&color=0A0E27)](https://www.geeksforgeeks.org/profile/4ps23cs103)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-0A0E27?style=for-the-badge&logo=codechef&logoColor=FF2E9A&labelColor=0A0E27&color=0A0E27)](https://www.codechef.com/users/noble_boar_06)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0B0D0F?style=for-the-badge&logo=leetcode&logoColor=00D9FF&labelColor=0B0D0F&color=0B0D0F)](https://leetcode.com/u/nandansdev/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0B0D0F?style=for-the-badge&logo=geeksforgeeks&logoColor=00D9FF&labelColor=0B0D0F&color=0B0D0F)](https://www.geeksforgeeks.org/profile/4ps23cs103)
+[![CodeChef](https://img.shields.io/badge/CodeChef-0B0D0F?style=for-the-badge&logo=codechef&logoColor=00D9FF&labelColor=0B0D0F&color=0B0D0F)](https://www.codechef.com/users/noble_boar_06)
 
----
+<img src="https://raw.githubusercontent.com/NANDANS26/NANDANS26/main/assets/divider.svg" width="100%" height="6" alt="" />
 
 ## `> github-analytics`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NANDANS26&show_icons=true&hide_border=true&title_color=00F0FF&icon_color=FF2E9A&text_color=E8E9FF&bg_color=0A0E27" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=NANDANS26&hide_border=true&background=0A0E27&stroke=00F0FF&ring=FF2E9A&fire=FF2E9A&currStreakLabel=00F0FF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=NANDANS26&show_icons=true&hide_border=true&title_color=00D9FF&icon_color=6EE7F9&text_color=E6EDF3&bg_color=0B0D0F" alt="Nandan's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NANDANS26&layout=compact&hide_border=true&title_color=00D9FF&text_color=E6EDF3&bg_color=0B0D0F" alt="Nandan's top languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NANDANS26&layout=compact&hide_border=true&title_color=00F0FF&text_color=E8E9FF&bg_color=0A0E27" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NANDANS26&bg_color=0B0D0F&color=E6EDF3&line=00D9FF&point=6EE7F9&area=true&hide_border=true" alt="Nandan's contribution activity graph" />
 
 </div>
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/NANDANS26/NANDANS26/main/assets/divider.svg" width="100%" height="6" alt="" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=NANDANS26&theme=algolia&no-frame=true&column=7&margin-w=10&margin-h=10" />
+## `> cat engineering-principles.txt`
 
-</div>
+```
+01  Understand the system before changing it.
+02  Prefer simple interfaces over unnecessary complexity.
+03  Validate failure paths, not only happy paths.
+04  Build for maintainability and observability.
+05  Learn unfamiliar systems through reading, testing and iteration.
+```
 
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NANDANS26&bg_color=0A0E27&color=00F0FF&line=FF2E9A&point=E8E9FF&area=true&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NANDANS26&theme=algolia" width="100%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NANDANS26&theme=algolia" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NANDANS26&theme=algolia" width="49%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NANDANS26&theme=algolia" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NANDANS26&theme=algolia&utcOffset=5.5" width="49%" />
-
-</div>
-
----
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/NANDANS26/NANDANS26/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
-> Snake animation requires a one-time GitHub Action setup — see note at the bottom of this README.
-
----
+<img src="https://raw.githubusercontent.com/NANDANS26/NANDANS26/main/assets/divider.svg" width="100%" height="6" alt="" />
 
 ## `> cat current-focus.yaml`
 
@@ -272,12 +251,14 @@ learning:
   - Advanced Data Structures & Algorithms
   - System Design
   - Distributed Systems
+  - Backend Architecture
   - Cloud Engineering
 
-building:
-  - Backend systems and engineering projects
-  - AI-powered applications and intelligent services
-  - Automation-driven software
+exploring:
+  - Reliable API design
+  - AI/ML system integration
+  - Software testing and reliability
+  - Automation
 
 open_to:
   - Backend Engineering Internships
@@ -286,21 +267,21 @@ open_to:
   - Backend / SDE New-Grad Roles
 ```
 
----
+<img src="https://raw.githubusercontent.com/NANDANS26/NANDANS26/main/assets/divider.svg" width="100%" height="6" alt="" />
 
-## `$ connect --with-me`
+## `> connect --with-me`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0E27?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0A0E27&color=0A0E27)](https://www.linkedin.com/in/nandan-s-9279952a1/)
-[![Instagram](https://img.shields.io/badge/Instagram-0A0E27?style=for-the-badge&logo=instagram&logoColor=FF2E9A&labelColor=0A0E27&color=0A0E27)](https://www.instagram.com/itz_nandan_s)
-[![Gmail](https://img.shields.io/badge/Gmail-0A0E27?style=for-the-badge&logo=gmail&logoColor=00F0FF&labelColor=0A0E27&color=0A0E27)](mailto:nandansdev26@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0A0E27?style=for-the-badge&logo=github&logoColor=FF2E9A&labelColor=0A0E27&color=0A0E27)](https://github.com/NANDANS26)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0D0F?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=0B0D0F&color=0B0D0F)](https://www.linkedin.com/in/nandan-s-9279952a1/)
+[![GitHub](https://img.shields.io/badge/GitHub-0B0D0F?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0B0D0F&color=0B0D0F)](https://github.com/NANDANS26)
+[![Email](https://img.shields.io/badge/Email-0B0D0F?style=for-the-badge&logo=gmail&logoColor=00D9FF&labelColor=0B0D0F&color=0B0D0F)](mailto:nandansdev26@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-0B0D0F?style=for-the-badge&logo=instagram&logoColor=00D9FF&labelColor=0B0D0F&color=0B0D0F)](https://www.instagram.com/itz_nandan_s)
 
 </div>
 
 <div align="center">
-<i>"Build systems that hold up when everything else is on fire."</i>
+<i>"Build systems that remain understandable when they become complicated."</i>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0A0E27&fontColor=00F0FF&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0B0D0F&fontColor=00D9FF&height=90&section=footer" alt="" />
