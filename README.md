@@ -1,37 +1,15 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0B0D0F&fontColor=00D9FF&text=NANDAN%20S&fontSize=40&fontAlign=50&fontAlignY=32&desc=Software%20Engineer%20%C2%B7%20Backend%20Systems%20%C2%B7%20AI%20%C2%B7%20Automation&descColor=6EE7F9&descAlign=50&descAlignY=52&animation=fadeIn" alt="Nandan S — Software Engineer, Backend Systems, AI, Automation" />
+  <img src="./assets/hero.svg" width="100%" alt="Nandan S — Software Engineer" />
 </div>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=00D9FF&center=true&vCenter=true&width=760&lines=%24+whoami+%E2%86%92+Software+Engineer;%24+focus+%E2%86%92+Backend+Systems+%C2%B7+AI+%C2%B7+Automation;%24+stack+%E2%86%92+Python+%C2%B7+TypeScript+%C2%B7+FastAPI+%C2%B7+Node.js;%24+build+%E2%86%92+APIs+%C2%B7+Intelligent+Services+%C2%B7+Automation;%24+open--to+%E2%86%92+Backend+%C2%B7+SDE+%C2%B7+AI+Engineering" alt="typing animation of role and stack" />
-
-</div>
-
-<div align="center">
-
-![Location](https://img.shields.io/badge/Mandya%2C%20Karnataka%2C%20India-0B0D0F?style=flat-square&labelColor=0B0D0F&color=00D9FF)
-![Degree](https://img.shields.io/badge/B.E.%20Computer%20Science-0B0D0F?style=flat-square&labelColor=0B0D0F&color=00D9FF)
-![University](https://img.shields.io/badge/PES%20College%20of%20Engineering%2C%20Mandya-0B0D0F?style=flat-square&labelColor=0B0D0F&color=00D9FF)
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0D0F?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=0B0D0F&color=0B0D0F)](https://www.linkedin.com/in/nandan-s-9279952a1/)
-[![GitHub](https://img.shields.io/badge/GitHub-0B0D0F?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0B0D0F&color=0B0D0F)](https://github.com/NANDANS26)
-[![Email](https://img.shields.io/badge/Email-0B0D0F?style=for-the-badge&logo=gmail&logoColor=00D9FF&labelColor=0B0D0F&color=0B0D0F)](mailto:nandansdev26@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-0B0D0F?style=for-the-badge&logo=instagram&logoColor=00D9FF&labelColor=0B0D0F&color=0B0D0F)](https://www.instagram.com/itz_nandan_s)
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=NANDANS26&color=00D9FF&style=flat-square&label=PROFILE+VIEWS)
-
-</div>
+<p align="center">
+  <a href="https://github.com/NANDANS26"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/nandan-s-9279952a1/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" /></a>
+  <a href="mailto:nandansdev26@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+</p>
 
 <img src="https://raw.githubusercontent.com/NANDANS26/NANDANS26/main/assets/divider.svg" width="100%" height="6" alt="" />
+
 
 ## `> whoami`
 
@@ -51,46 +29,26 @@ OPEN_TO  = Backend | SDE | AI Engineering Internships + New-Grad Roles
 
 ## `$ ls /tech-stack`
 
-**Languages**
-![Python](https://skillicons.dev/icons?i=py&theme=dark)
-![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)
-![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)
-![C](https://skillicons.dev/icons?i=c&theme=dark)
-![C++](https://skillicons.dev/icons?i=cpp&theme=dark)
+<div align="center">
 
-**Backend**
-![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)
-![Express](https://skillicons.dev/icons?i=express&theme=dark)
+| <span style="color:#00D9FF">DOMAIN</span> | <span style="color:#00D9FF">STACK</span> |
+|:---|:---|
+| **Languages** | ![Python](https://skillicons.dev/icons?i=python&theme=dark) ![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark) ![JavaScript](https://skillicons.dev/icons?i=js&theme=dark) ![C](https://skillicons.dev/icons?i=c&theme=dark) ![C++](https://skillicons.dev/icons?i=cpp&theme=dark) |
+| **Backend** | ![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark) ![Express](https://skillicons.dev/icons?i=express&theme=dark) ![FastAPI](https://skillicons.dev/icons?i=fastapi&theme=dark) · REST APIs · Authentication · Authorization · Webhooks |
+| **Frontend** | ![React](https://skillicons.dev/icons?i=react&theme=dark) · TypeScript · Tailwind CSS |
+| **AI / ML** | ![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=dark) · scikit-learn · LightGBM · FAISS · SentenceTransformers |
+| **Databases** | ![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark) ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark) ![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark) |
+| **Cloud / Infra** | ![GCP](https://skillicons.dev/icons?i=gcp&theme=dark) ![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark) ![Docker](https://skillicons.dev/icons?i=docker&theme=dark) ![Linux](https://skillicons.dev/icons?i=linux&theme=dark) ![Bash](https://skillicons.dev/icons?i=bash&theme=dark) |
+| **Engineering** | ![Git](https://skillicons.dev/icons?i=git&theme=dark) ![GitHub](https://skillicons.dev/icons?i=github&theme=dark) ![Postman](https://skillicons.dev/icons?i=postman&theme=dark) · Swagger / OpenAPI · CI/CD |
 
-`REST APIs · Authentication · Authorization · Webhooks · FastAPI`
+</div>
 
-**Frontend**
-![React](https://skillicons.dev/icons?i=react&theme=dark)
+<details>
+<summary><b>▸ Engineering capabilities</b></summary>
 
-**AI / ML**
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=dark)
+`API Design` · `Auth & RBAC` · `Webhooks` · `Event-driven workflows` · `Vector Search` · `ML Ranking` · `Database Design` · `Dockerized Services` · `Cloud Deployment` · `System Modeling`
 
-`scikit-learn · LightGBM · FAISS · SentenceTransformers`
-
-**Databases**
-![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)
-![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)
-
-**Cloud / Infrastructure**
-![GCP](https://skillicons.dev/icons?i=gcp&theme=dark)
-![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark)
-![Docker](https://skillicons.dev/icons?i=docker&theme=dark)
-![Linux](https://skillicons.dev/icons?i=linux&theme=dark)
-![Bash](https://skillicons.dev/icons?i=bash&theme=dark)
-
-**Engineering**
-![Git](https://skillicons.dev/icons?i=git&theme=dark)
-![GitHub](https://skillicons.dev/icons?i=github&theme=dark)
-![Postman](https://skillicons.dev/icons?i=postman&theme=dark)
-
-`Swagger / OpenAPI`
-
-<img src="https://raw.githubusercontent.com/NANDANS26/NANDANS26/main/assets/divider.svg" width="100%" height="6" alt="" />
+</details>
 
 ## `> specialization`
 
@@ -218,17 +176,19 @@ learning_credentials:
 ## `> github-analytics`
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NANDANS26&show_icons=true&hide_border=true&title_color=00D9FF&icon_color=6EE7F9&text_color=E6EDF3&bg_color=0B0D0F" alt="Nandan's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NANDANS26&layout=compact&hide_border=true&title_color=00D9FF&text_color=E6EDF3&bg_color=0B0D0F" alt="Nandan's top languages" />
-
+  <a href="https://github.com/NANDANS26">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=NANDANS26&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8B5CF6&text_color=CBD5E1&ring_color=00D9FF&cache_seconds=86400" alt="Nandan's GitHub statistics" />
+  </a>
+  <a href="https://github.com/NANDANS26">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NANDANS26&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=CBD5E1&cache_seconds=86400" alt="Nandan's top languages" />
+  </a>
 </div>
 
 <div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NANDANS26&bg_color=0B0D0F&color=E6EDF3&line=00D9FF&point=6EE7F9&area=true&hide_border=true" alt="Nandan's contribution activity graph" />
-
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=NANDANS26&bg_color=0D1117&color=CBD5E1&line=00D9FF&point=8B5CF6&area=true&hide_border=true&custom_title=NANDAN%20S%20%E2%80%94%20Contribution%20Activity" alt="Nandan's GitHub contribution activity" />
 </div>
+
+<p align="center"><sub>Live GitHub metrics • public activity • contribution history</sub></p>
 
 <img src="https://raw.githubusercontent.com/NANDANS26/NANDANS26/main/assets/divider.svg" width="100%" height="6" alt="" />
 

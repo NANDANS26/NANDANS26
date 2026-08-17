@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 520" role="img" aria-labelledby="title desc">
+  <title id="title">Nandan S — Software Engineer</title>
+  <desc id="desc">A dark futuristic developer banner with animated cyan and violet energy, terminal styling, and a SIREN focus panel.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#05070d"/><stop offset="0.55" stop-color="#0a1020"/><stop offset="1" stop-color="#090612"/></linearGradient>
+    <linearGradient id="cyanViolet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#00e5ff"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+    <radialGradient id="orb"><stop stop-color="#00e5ff" stop-opacity=".8"/><stop offset=".35" stop-color="#2563eb" stop-opacity=".28"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="soft"><feGaussianBlur stdDeviation="35"/></filter>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#6b7280" stroke-opacity=".08"/></pattern>
+    <style>
+      .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace}
+      .sans{font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+      .pulse{animation:pulse 3s ease-in-out infinite}
+      .orbit{transform-origin:1080px 260px;animation:spin 14s linear infinite}
+      .orbit2{transform-origin:1080px 260px;animation:spin 20s linear infinite reverse}
+      .float{animation:float 5s ease-in-out infinite}
+      .scan{animation:scan 5s ease-in-out infinite}
+      @keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+      @keyframes spin{to{transform:rotate(360deg)}}
+      @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+      @keyframes scan{0%{transform:translateY(0);opacity:.15}50%{opacity:.45}100%{transform:translateY(330px);opacity:.1}}
+    </style>
+  </defs>
+  <rect width="1400" height="520" rx="28" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1398" height="518" rx="28" fill="url(#grid)" stroke="#1f2937"/>
+  <circle cx="1080" cy="260" r="240" fill="url(#orb)" filter="url(#soft)"/>
+  <g opacity=".75" class="pulse"><circle cx="90" cy="82" r="1.5" fill="#00e5ff"/><circle cx="210" cy="410" r="1.2" fill="#8b5cf6"/><circle cx="470" cy="105" r="1.3" fill="#fff"/><circle cx="760" cy="72" r="1.4" fill="#00e5ff"/><circle cx="1270" cy="90" r="1.2" fill="#fff"/><circle cx="1320" cy="390" r="1.6" fill="#8b5cf6"/><circle cx="620" cy="455" r="1.1" fill="#00e5ff"/></g>
+  <rect x="42" y="40" width="1316" height="1" fill="#00e5ff" opacity=".28"/>
+  <text x="58" y="72" class="mono" font-size="14" fill="#00e5ff">&gt;_ terminal</text>
+  <text x="1110" y="72" class="mono" font-size="12" fill="#64748b">status: building • online</text>
+  <g class="sans">
+    <text x="70" y="155" font-size="16" fill="#00e5ff">HELLO, I'M</text>
+    <text x="68" y="225" font-size="64" font-weight="800" letter-spacing="4" fill="#f8fafc">NANDAN S<tspan fill="#00e5ff">_</tspan></text>
+    <text x="72" y="263" font-size="21" fill="#cbd5e1">Software Engineer · Backend Systems · AI Engineering</text>
+    <text x="72" y="296" font-size="15" fill="#64748b">Building reliable APIs, intelligent services and automation that solve real problems.</text>
+  </g>
+  <g class="mono" font-size="12">
+    <rect x="70" y="330" width="150" height="34" rx="17" fill="#07141b" stroke="#00e5ff" stroke-opacity=".7"/>
+    <text x="145" y="352" text-anchor="middle" fill="#67e8f9">FULL STACK</text>
+    <rect x="232" y="330" width="145" height="34" rx="17" fill="#0d0b19" stroke="#8b5cf6" stroke-opacity=".75"/>
+    <text x="304" y="352" text-anchor="middle" fill="#c4b5fd">AI / ML</text>
+    <rect x="389" y="330" width="165" height="34" rx="17" fill="#07141b" stroke="#2563eb" stroke-opacity=".75"/>
+    <text x="471" y="352" text-anchor="middle" fill="#93c5fd">SYSTEM THINKER</text>
+  </g>
+  <g class="mono" opacity=".32" fill="#94a3b8" font-size="12">
+    <text x="520" y="140">const engineer = {</text><text x="545" y="160">build: "reliable",</text><text x="545" y="180">learn: "continuously",</text><text x="545" y="200">ship: true</text><text x="520" y="220">}</text>
+  </g>
+  <g class="orbit" fill="none" stroke="url(#cyanViolet)" stroke-linecap="round">
+    <ellipse cx="1080" cy="260" rx="190" ry="78" stroke-width="2" opacity=".8"/>
+    <ellipse cx="1080" cy="260" rx="215" ry="95" stroke-width="1" opacity=".35" transform="rotate(60 1080 260)"/>
+  </g>
+  <g class="orbit2" fill="none" stroke="#00e5ff" stroke-linecap="round" opacity=".4"><ellipse cx="1080" cy="260" rx="165" ry="60" stroke-width="1.5" transform="rotate(-35 1080 260)"/></g>
+  <circle cx="1080" cy="260" r="82" fill="#050912" stroke="#00e5ff" stroke-width="2" filter="url(#glow)"/>
+  <text x="1080" y="281" text-anchor="middle" class="sans" font-size="72" font-weight="800" fill="url(#cyanViolet)">N</text>
+  <g class="float">
+    <rect x="1180" y="355" width="190" height="92" rx="16" fill="#070b14" stroke="#00e5ff" stroke-opacity=".5"/>
+    <circle cx="1350" cy="375" r="4" fill="#00e5ff" class="pulse"/>
+    <text x="1200" y="382" class="mono" font-size="11" fill="#64748b">CURRENT FOCUS</text>
+    <text x="1200" y="407" class="sans" font-size="18" font-weight="700" fill="#f8fafc">SIREN</text>
+    <text x="1200" y="428" class="mono" font-size="10" fill="#67e8f9">RL · CYBER INCIDENTS</text>
+  </g>
+  <rect x="42" y="485" width="1316" height="2" fill="url(#cyanViolet)" opacity=".8" class="scan"/>
+</svg>
