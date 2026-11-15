@@ -1,247 +1,121 @@
-<div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Nandan S — Software Engineer" />
-</div>
+# Nandan S — Software Engineer
 
 <p align="center">
-  <a href="https://github.com/NANDANS26"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/nandan-s-9279952a1/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" /></a>
-  <a href="mailto:nandansdev26@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  <strong>Backend Engineering · Applied AI/ML · Reliable Systems</strong><br/>
+  I design and build software where data, models, APIs, and operational safeguards work together.
 </p>
 
-<img src="https://raw.githubusercontent.com/NANDANS26/NANDANS26/main/assets/divider.svg" width="100%" height="6" alt="" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/nandan-s-9279952a1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:nandansdev26@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/NANDANS26"><img src="https://img.shields.io/badge/GitHub-NANDANS26-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+</p>
 
+---
 
-## `> whoami`
+## About
 
-Software engineer focused on backend systems, intelligent services, and automation. I build APIs, event-driven workflows, and AI-powered systems with an emphasis on reliability, maintainability, and practical engineering.
+I'm a Computer Science Engineering student at **PES College of Engineering, Mandya (2027)**, focused on backend systems, applied machine learning, and dependable software.
 
-```bash
-$ cat .profile
+My work spans financial decision systems, reconciliation, evidence-aware talent intelligence, network simulation, and AI-assisted developer tools. I care about the engineering underneath the interface: data contracts, deterministic calculations, failure handling, traceability, security boundaries, and tests that exercise real behavior.
 
-ROLE     = Software Engineer
-FOCUS    = Backend Systems | AI | Automation
-DOMAIN   = Backend | AI/ML | Payments | Systems Modeling
-STACK    = Python | TypeScript | Node.js | FastAPI
-OPEN_TO  = Backend | SDE | AI Engineering Internships + New-Grad Roles
-```
+Currently interested in **Backend / Software Engineering** and **AI Engineering** opportunities.
 
-<img src="https://raw.githubusercontent.com/NANDANS26/NANDANS26/main/assets/divider.svg" width="100%" height="6" alt="" />
+## Selected work
 
-## `$ ls /tech-stack`
+These are the projects that best represent the systems I enjoy building. Project descriptions below are based on their repository documentation.
 
-<div align="center">
+### [Averiq — AI Revenue Recovery Decision Engine](https://github.com/NANDANS26/averiq)
+A payment-recovery decision platform that estimates intervention value against an organic-recovery baseline, applies deterministic policy guardrails, and routes risky decisions through human approval.
 
-| <span style="color:#00D9FF">DOMAIN</span> | <span style="color:#00D9FF">STACK</span> |
-|:---|:---|
-| **Languages** | ![Python](https://skillicons.dev/icons?i=python&theme=dark) ![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark) ![JavaScript](https://skillicons.dev/icons?i=js&theme=dark) ![C](https://skillicons.dev/icons?i=c&theme=dark) ![C++](https://skillicons.dev/icons?i=cpp&theme=dark) |
-| **Backend** | ![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark) ![Express](https://skillicons.dev/icons?i=express&theme=dark) ![FastAPI](https://skillicons.dev/icons?i=fastapi&theme=dark) · REST APIs · Authentication · Authorization · Webhooks |
-| **Frontend** | ![React](https://skillicons.dev/icons?i=react&theme=dark) · TypeScript · Tailwind CSS |
-| **AI / ML** | ![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=dark) · scikit-learn · LightGBM · FAISS · SentenceTransformers |
-| **Databases** | ![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark) ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark) ![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark) |
-| **Cloud / Infra** | ![GCP](https://skillicons.dev/icons?i=gcp&theme=dark) ![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark) ![Docker](https://skillicons.dev/icons?i=docker&theme=dark) ![Linux](https://skillicons.dev/icons?i=linux&theme=dark) ![Bash](https://skillicons.dev/icons?i=bash&theme=dark) |
-| **Engineering** | ![Git](https://skillicons.dev/icons?i=git&theme=dark) ![GitHub](https://skillicons.dev/icons?i=github&theme=dark) ![Postman](https://skillicons.dev/icons?i=postman&theme=dark) · Swagger / OpenAPI · CI/CD |
+- Calibrated LightGBM T-Learner for intervention-value estimation.
+- Counterfactual `NO_INTERVENTION` baseline and net incremental surplus ranking.
+- Integer-paise accounting, idempotency controls, Redis locking, and auditable execution.
+- FastAPI, PostgreSQL, Redis, Celery, React, TypeScript.
 
-</div>
+### [ReconPilot — Financial Reconciliation & Exception Investigation](https://github.com/NANDANS26/ReconPilot)
+A finance-control workflow that separates deterministic financial truth from ML-assisted investigation.
 
-<details>
-<summary><b>▸ Engineering capabilities</b></summary>
+- Deterministic matching with Python `Decimal` and PostgreSQL numeric storage.
+- Evidence dossiers with canonicalization and SHA-256 integrity fingerprints.
+- Local CatBoost root-cause classification with confidence and abstention gates.
+- Dual-control approvals and separation-of-duties checks; no automatic ledger mutation.
 
-`API Design` · `Auth & RBAC` · `Webhooks` · `Event-driven workflows` · `Vector Search` · `ML Ranking` · `Database Design` · `Dockerized Services` · `Cloud Deployment` · `System Modeling`
+### [SkillVerse — Evidence-Aware Learning & Workforce Intelligence](https://github.com/NANDANS26/SkillVerse)
+A platform connecting verified competency evidence, personalized learning roadmaps, and employer-side candidate discovery.
 
-</details>
+- Evidence-weighted Skill DNA and faculty verification workflows.
+- SentenceTransformer embeddings and semantic recommendations.
+- FAISS retrieval followed by LightGBM candidate re-ranking.
+- Six-role RBAC, PostgreSQL, FastAPI, Node.js, React, TypeScript.
 
-## `> specialization`
+### [Protocol-Aware Network Digital Twin](https://github.com/NANDANS26/protocol-aware-network-digital-twin)
+A network analysis and security-verification platform combining systems programming with deterministic simulation.
 
-![Backend Systems](https://img.shields.io/badge/Backend%20Systems-0B0D0F?style=flat-square&labelColor=0B0D0F&color=00D9FF)
-![AI/ML Integration](https://img.shields.io/badge/AI%2FML%20Integration-0B0D0F?style=flat-square&labelColor=0B0D0F&color=00D9FF)
-![API Engineering](https://img.shields.io/badge/API%20Engineering-0B0D0F?style=flat-square&labelColor=0B0D0F&color=00D9FF)
-![Payments & SaaS Infra](https://img.shields.io/badge/Payments%20%26%20SaaS%20Infrastructure-0B0D0F?style=flat-square&labelColor=0B0D0F&color=00D9FF)
-![Systems Modeling](https://img.shields.io/badge/Systems%20Modeling-0B0D0F?style=flat-square&labelColor=0B0D0F&color=00D9FF)
-![Automation](https://img.shields.io/badge/Automation-0B0D0F?style=flat-square&labelColor=0B0D0F&color=00D9FF)
+- C++20 protocol analysis and stateful flow tracking.
+- Evidence-based topology reconstruction and versioned digital-twin snapshots.
+- Security invariant verification, isolated fuzzing, and differential testing.
+- Reproducible investigations with SHA-256 evidence integrity.
 
-### `> cat expertise.md`
+### [SIREN — Security Incident Response Environment](https://github.com/NANDANS26/SIREN)
+An OpenEnv-compatible reinforcement-learning environment where agents learn incident-response action sequences against interconnected systems.
 
-| Domain | Proficiency | Details |
-| :-- | :-- | :-- |
-| Backend API Engineering | Strong | REST API design, authentication/authorization, structured error handling, webhooks |
-| AI/ML Integration | Strong | FAISS vector search, SentenceTransformers, LightGBM ranking, explainable scoring |
-| Payments & SaaS Infrastructure | Strong | Stripe Checkout/Webhooks, signature verification, RBAC, subscription lifecycle automation |
-| Systems Modeling / RL | Intermediate–Strong | Reinforcement learning environments, reward design, state-transition simulation |
-| Frontend | Intermediate | React component architecture, API integration |
-| Cloud / DevOps | Intermediate | Google Cloud Platform, Firebase, Docker, Git-based workflows |
+- Partial observability with system logs and indicators revealed through inspection actions.
+- Attack-chain propagation, isolation, patching, and escalation decisions.
+- Grading combines incident outcomes with sequence alignment to expert traces.
+- Python, FastAPI, Docker.
 
-<img src="https://raw.githubusercontent.com/NANDANS26/NANDANS26/main/assets/divider.svg" width="100%" height="6" alt="" />
+### [FORGE-AI / DataFactory](https://github.com/NANDANS26/FORGE-AI)
+A modular data-manufacturing platform that turns natural-language data requirements into validated, documented data products.
 
-## `$ ls /projects --featured`
+- FastAPI backend with Polars, DuckDB, and PyArrow.
+- React and TypeScript analytical client.
+- Domain packs, shared contracts, and staged ingestion / matching / planning workflows.
 
-<details open>
-<summary><b>&#9654; Nexus SaaS — Payment & Subscription Platform</b></summary>
+<sub>Note: FORGE-AI is currently private, so this link may not be accessible to visitors. Consider making it public only after reviewing secrets, data, and licensing.</sub>
 
-A backend SaaS platform handling subscription pricing, Stripe payment processing, and lifecycle automation.
+### [RepoGenie](https://github.com/NANDANS26/RepoGenie)
+An AI-assisted tool for turning GitHub repositories into editable project reports and exporting PDF, DOCX, and PPTX deliverables.
 
-| | |
-| :-- | :-- |
-| **Stack** | Node.js · TypeScript · MongoDB · Stripe API · Webhooks |
-| **Architecture** | Event-driven backend with signature-verified, idempotent Stripe webhook handling and RBAC-gated access |
-| **Engineering contribution** | Designed subscription lifecycle logic (upgrade / renewal / cancellation) and usage-based feature enforcement tied to plan tier |
-| **Key technical implementation** | Stripe Checkout integration, webhook signature verification, RBAC-based authorization |
-| **Repository** | [github.com/NANDANS26/Nexux-Stripe](https://github.com/NANDANS26/Nexux-Stripe) *(closest matching public repo — flagged for your confirmation, see note below)* |
+---
 
-</details>
+## Open-source contributions
 
-<details>
-<summary><b>&#9654; SIREN — Reinforcement Learning Environment for Cyber Incident Response</b></summary>
+### [Rocketflare](https://github.com/rocketflare-dev/rocketflare)
+Contributing to a multi-tenant SaaS starter kit. **PR #79 was merged**: added bounded concurrent execution for independent agent tool calls, with sequential behavior available at a concurrency cap of one.
 
-A Python simulation environment modeling cyber incident response as a reinforcement learning problem.
+Also submitted follow-up work in [PR #80](https://github.com/rocketflare-dev/rocketflare/pull/80), [PR #81](https://github.com/rocketflare-dev/rocketflare/pull/81), and [PR #82](https://github.com/rocketflare-dev/rocketflare/pull/82). These are open; they are not represented as merged contributions.
 
-| | |
-| :-- | :-- |
-| **Stack** | Python · FastAPI · Reinforcement Learning · System Modeling |
-| **Architecture** | Interconnected services with system-level state transitions and anomaly propagation across dependent components |
-| **Engineering contribution** | Designed isolation logic and deployment/recovery/validation action scenarios; built an automated evaluation pipeline |
-| **Key technical implementation** | Outcome scoring combined with sequence-based analysis for agent performance validation |
-| **Repository** | Private / Not publicly available |
+---
 
-</details>
+## Engineering toolkit
 
-<details>
-<summary><b>&#9654; SkillVerse — AI-Based Candidate Matching System</b></summary>
+| Area | Tools and technologies |
+|---|---|
+| Languages | Python, TypeScript, JavaScript, C, C++ |
+| Backend | FastAPI, Node.js, Express, REST APIs |
+| Frontend | React, Vite, Tailwind CSS |
+| Data & ML | PostgreSQL, Redis, DuckDB, Polars, PyArrow, scikit-learn, LightGBM, CatBoost, FAISS, SentenceTransformers |
+| Infrastructure | Docker, Git, GitHub Actions, Linux |
+| Engineering practices | API contracts, RBAC, deterministic financial logic, idempotency, event-driven workflows, integration testing |
 
-A semantic candidate-matching engine that ranks candidates against job descriptions.
+## Achievements & learning
 
-| | |
-| :-- | :-- |
-| **Stack** | React · Node.js · FastAPI · MySQL · FAISS · SentenceTransformers · LightGBM |
-| **Architecture** | Python FastAPI ML service cross-communicating with a Node.js backend in real time |
-| **Engineering contribution** | Built the semantic matching pipeline (embeddings + vector search) and the LightGBM ranking layer |
-| **Key technical implementation** | SentenceTransformer embeddings, FAISS vector search, explainable candidate scoring |
-| **Repository** | Private / Not publicly available |
+- **Winner** — GDG Impact Challenge.
+- **2nd Place** — Hacksketra 2024.
+- **Google Cloud Generative AI Study Jam** — 15 skill badges and 60+ hands-on labs (2024).
 
-</details>
+## Education
 
-<img src="https://raw.githubusercontent.com/NANDANS26/NANDANS26/main/assets/divider.svg" width="100%" height="6" alt="" />
+**B.E. Computer Science & Engineering**  
+PES College of Engineering, Mandya · 2023–2027
 
-## `> cat experience.log`
+## Find me
 
-**Software Engineer** — Project-Based / Freelance / Startup Projects
-`2024 – Present`
+- LinkedIn: [nandan-s](https://www.linkedin.com/in/nandan-s-9279952a1/)
+- LeetCode: [nandansdev](https://leetcode.com/u/nandansdev/)
+- GitHub: [@NANDANS26](https://github.com/NANDANS26)
 
-- Designed and built backend systems and Python applications with focus on reliability and maintainability
-- Developed REST APIs with authentication, validation, logging, and structured error handling
-- Integrated external APIs and automated backend workflows
-- Worked in Linux-based development environments using Git and collaborative version-control workflows
-- Collaborated in small teams with version control and iterative development practices
-- Incorporated feedback during iterative development where applicable
+---
 
-<img src="https://raw.githubusercontent.com/NANDANS26/NANDANS26/main/assets/divider.svg" width="100%" height="6" alt="" />
-
-## `> cat achievements.md`
-
-<div align="center">
-
-| Result | Event | Level |
-| :--: | :-- | :--: |
-| 🏆 Winner | TITAN Impact Challenge | National |
-| 🥈 Runner-up | Hack Kshetra 2024 | National |
-| 🏆 Winner | GDG Impact Challenge | — |
-| Participant | Google Solution Challenge | — |
-
-</div>
-
-### `> cat certifications.yaml`
-
-```yaml
-learning_credentials:
-  - title: Google Cloud Generative AI Study Jam Achiever
-    year: 2024
-    detail: 15 skill badges · 60+ hands-on labs
-```
-
-<img src="https://raw.githubusercontent.com/NANDANS26/NANDANS26/main/assets/divider.svg" width="100%" height="6" alt="" />
-
-<div align="center">
-
-![Education](https://img.shields.io/badge/B.E.%20Computer%20Science%20%E2%80%94%20PES%20College%20of%20Engineering%2C%20Mandya%20%E2%80%94%202023--2027%20(In%20Progress)-0B0D0F?style=for-the-badge&labelColor=0B0D0F&color=00D9FF)
-
-</div>
-
-## `$ ls /coding-profiles`
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-0B0D0F?style=for-the-badge&logo=leetcode&logoColor=00D9FF&labelColor=0B0D0F&color=0B0D0F)](https://leetcode.com/u/nandansdev/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0B0D0F?style=for-the-badge&logo=geeksforgeeks&logoColor=00D9FF&labelColor=0B0D0F&color=0B0D0F)](https://www.geeksforgeeks.org/profile/4ps23cs103)
-[![CodeChef](https://img.shields.io/badge/CodeChef-0B0D0F?style=for-the-badge&logo=codechef&logoColor=00D9FF&labelColor=0B0D0F&color=0B0D0F)](https://www.codechef.com/users/noble_boar_06)
-
-<img src="https://raw.githubusercontent.com/NANDANS26/NANDANS26/main/assets/divider.svg" width="100%" height="6" alt="" />
-
-## `> github-analytics`
-
-<div align="center">
-<img src="./assets/github-stats.svg" width="100%" alt="GitHub snapshot — repositories, stars, followers and forks" />
-</div>
-
-<div align="center">
-<img src="./assets/github-languages.svg" width="53%" alt="Primary repository language distribution" />
-<img src="./assets/github-recent.svg" width="43%" alt="Recently updated repositories" />
-</div>
-
-<div align="center">
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=NANDANS26&bg_color=060A11&color=CBD5E1&line=00E5FF&point=8B5CF6&area=true&hide_border=true&custom_title=NANDAN%20S%20%E2%80%94%20Contribution%20Activity&radius=12" alt="Nandan's GitHub contribution activity" />
-</div>
-
-<p align="center"><sub>Repository metrics are generated from GitHub's API and refreshed automatically. Contribution activity is shown separately.</sub></p>
-
-<img src="https://raw.githubusercontent.com/NANDANS26/NANDANS26/main/assets/divider.svg" width="100%" height="6" alt="" />
-
-## `> cat engineering-principles.txt`
-
-```
-01  Understand the system before changing it.
-02  Prefer simple interfaces over unnecessary complexity.
-03  Validate failure paths, not only happy paths.
-04  Build for maintainability and observability.
-05  Learn unfamiliar systems through reading, testing and iteration.
-```
-
-<img src="https://raw.githubusercontent.com/NANDANS26/NANDANS26/main/assets/divider.svg" width="100%" height="6" alt="" />
-
-## `> cat current-focus.yaml`
-
-```yaml
-learning:
-  - Advanced Data Structures & Algorithms
-  - System Design
-  - Distributed Systems
-  - Backend Architecture
-  - Cloud Engineering
-
-exploring:
-  - Reliable API design
-  - AI/ML system integration
-  - Software testing and reliability
-  - Automation
-
-open_to:
-  - Backend Engineering Internships
-  - Software Engineering Internships
-  - AI/ML Engineering Internships
-  - Backend / SDE New-Grad Roles
-```
-
-<img src="https://raw.githubusercontent.com/NANDANS26/NANDANS26/main/assets/divider.svg" width="100%" height="6" alt="" />
-
-## `> connect --with-me`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0D0F?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=0B0D0F&color=0B0D0F)](https://www.linkedin.com/in/nandan-s-9279952a1/)
-[![GitHub](https://img.shields.io/badge/GitHub-0B0D0F?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0B0D0F&color=0B0D0F)](https://github.com/NANDANS26)
-[![Email](https://img.shields.io/badge/Email-0B0D0F?style=for-the-badge&logo=gmail&logoColor=00D9FF&labelColor=0B0D0F&color=0B0D0F)](mailto:nandansdev26@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-0B0D0F?style=for-the-badge&logo=instagram&logoColor=00D9FF&labelColor=0B0D0F&color=0B0D0F)](https://www.instagram.com/itz_nandan_s)
-
-</div>
-
-<div align="center">
-<i>"Build systems that remain understandable when they become complicated."</i>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0B0D0F&fontColor=00D9FF&height=90&section=footer" alt="" />
+<p align="center"><sub>Build carefully. Test failure paths. Make systems understandable.</sub></p>
