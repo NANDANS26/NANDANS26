@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Nandan S — Backend Engineering, Applied AI and Reliable Systems" />
+</div>
+
 # Nandan S — Software Engineer
 
 <p align="center">
@@ -65,19 +69,30 @@ An OpenEnv-compatible reinforcement-learning environment where agents learn inci
 - Grading combines incident outcomes with sequence alignment to expert traces.
 - Python, FastAPI, Docker.
 
-### [FORGE-AI / DataFactory](https://github.com/NANDANS26/FORGE-AI)
+### FORGE-AI / DataFactory *(private project)*
 A modular data-manufacturing platform that turns natural-language data requirements into validated, documented data products.
 
 - FastAPI backend with Polars, DuckDB, and PyArrow.
 - React and TypeScript analytical client.
 - Domain packs, shared contracts, and staged ingestion / matching / planning workflows.
 
-<sub>Note: FORGE-AI is currently private, so this link may not be accessible to visitors. Consider making it public only after reviewing secrets, data, and licensing.</sub>
+<sub>The repository is private and therefore intentionally not linked from this public profile.</sub>
 
 ### [RepoGenie](https://github.com/NANDANS26/RepoGenie)
 An AI-assisted tool for turning GitHub repositories into editable project reports and exporting PDF, DOCX, and PPTX deliverables.
 
+### Research: [FedAvg vs. FedProx on non-IID PathMNIST](https://github.com/NANDANS26/pathmnist-federated-learning)
+A seed-controlled five-seed comparison under a defined non-IID split and 40% symmetric label noise. The repository explicitly limits its conclusions to the evaluated configuration and does not claim real multi-hospital deployment or general equivalence between the algorithms.
+
 ---
+
+## More projects
+
+- [MIRROR X AI](https://github.com/NANDANS26/MIRROR-X-AI) — multimodal interface analysis for identifying and explaining potentially manipulative UX patterns.
+- [NSE Options Research Lab](https://github.com/NANDANS26/NSE-Options-Research-Lab) — an offline-capable options research and backtesting platform with Indian transaction-cost modelling and risk controls; derived from Bhav by Raj Maurya with attribution.
+- [GDG PESCE Website](https://github.com/NANDANS26/gdg-website) — React, TypeScript and Three.js website for the college developer community.
+- [Athlete Management](https://github.com/NANDANS26/Athlete-Management) — athlete and coach workflows with performance data and wearable integrations.
+
 
 ## Open-source contributions
 
