@@ -25,7 +25,7 @@ My work spans quantitative research tooling, financial decision systems, reconci
 
 Currently interested in **Backend / Software Engineering** and **AI Engineering** opportunities.
 
-## Featured project
+## Engineering work
 
 ### [NSE Options Research Lab (NSE-ORL)](https://github.com/NANDANS26/NSE-Options-Research-Lab)
 
@@ -39,10 +39,6 @@ An offline-capable Indian derivatives research and backtesting platform for hist
 - **Verification:** the repository documents 117 passing unit and integration tests.
 
 This project is **derived from Bhav by Raj Maurya (@rajmaurya0904), with attribution**. I maintain and extend the research platform; I do not claim the upstream foundation as wholly original work.
-
----
-
-## Selected engineering work
 
 ### [Averiq — AI Revenue Recovery Decision Engine](https://github.com/NANDANS26/averiq)
 
