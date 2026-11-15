@@ -78,8 +78,12 @@ A modular data-manufacturing platform that turns natural-language data requireme
 
 <sub>The repository is private and therefore intentionally not linked from this public profile.</sub>
 
-### [RepoGenie](https://github.com/NANDANS26/RepoGenie)
-An AI-assisted tool for turning GitHub repositories into editable project reports and exporting PDF, DOCX, and PPTX deliverables.
+### [CareerScope](https://github.com/NANDANS26/CareerScope)
+A career-intelligence platform combining ATS-based job discovery, skill-to-role matching, company research, and human-reviewed outreach drafting.
+
+- Greenhouse, Lever, and Ashby job-feed ingestion.
+- Explainable skill matching and company intelligence.
+- Application tracking with no automated email sending.
 
 ### Research: [FedAvg vs. FedProx on non-IID PathMNIST](https://github.com/NANDANS26/pathmnist-federated-learning)
 A seed-controlled five-seed comparison under a defined non-IID split and 40% symmetric label noise. The repository explicitly limits its conclusions to the evaluated configuration and does not claim real multi-hospital deployment or general equivalence between the algorithms.
@@ -89,6 +93,8 @@ A seed-controlled five-seed comparison under a defined non-IID split and 40% sym
 ## More projects
 
 - [MIRROR X AI](https://github.com/NANDANS26/MIRROR-X-AI) — multimodal interface analysis for identifying and explaining potentially manipulative UX patterns.
+- [PagePulse](https://github.com/NANDANS26/page-pulse) — website audits across SEO, performance, and accessibility, with a React / Node stack.
+- [ResumeSmith](https://github.com/NANDANS26/ResumeSmith) — privacy-conscious resume and academic CV builder with live Typst rendering and PDF export.
 - [NSE Options Research Lab](https://github.com/NANDANS26/NSE-Options-Research-Lab) — an offline-capable options research and backtesting platform with Indian transaction-cost modelling and risk controls; derived from Bhav by Raj Maurya with attribution.
 - [GDG PESCE Website](https://github.com/NANDANS26/gdg-website) — React, TypeScript and Three.js website for the college developer community.
 - [Athlete Management](https://github.com/NANDANS26/Athlete-Management) — athlete and coach workflows with performance data and wearable integrations.
